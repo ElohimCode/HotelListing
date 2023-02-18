@@ -1,0 +1,45 @@
+[
+  {
+    "HotelId": "A7104362-6641-4E37-8A6C-994AF5B56C25",
+    "HotelName": "Ben Resort Centre",
+    "Address": "Valendi",
+    "Rating": 4.5,
+    "CountryId": "14629847-905a-4a0e-9abe-80b61655c5cb"
+  },
+  {
+    "HotelId": "91D88C68-BCE7-46AA-8472-34EF6CB56719",
+    "HotelName": "Jen Resort Centre",
+    "Address": "Balendi",
+    "Rating": 4,
+    "CountryId": "14629847-905a-4a0e-9abe-80b61655c5cb"
+  },
+  {
+    "HotelId": "A9DA989C-5D4B-43DF-A905-AAFF4F75D82F",
+    "HotelName": "Zeus Resort Centre",
+    "Address": "Mensilensis",
+    "Rating": 3.8,
+    "CountryId": "14629847-905a-4a0e-9abe-80b61655c5cb"
+  },
+  {
+    "HotelId": "B455F8CB-B8EC-44AF-8115-7BF00ADC33D0",
+    "HotelName": "Zen Resort Centre",
+    "Address": "Vlexco",
+    "Rating": 5,
+    "CountryId": "56bf46a4-02b8-4693-a0f5-0a95e2218bdc"
+  },
+  {
+    "HotelId": "8D2BEF80-ABE6-4AA4-B549-C145806F9CD1",
+    "HotelName": "Bala Blu Resort Centre",
+    "Address": "Bulaba",
+    "Rating": 4,
+    "CountryId": "12e15727-d369-49a9-8b13-bc22e9362179"
+  },
+  {
+    "HotelId": "C196B58A-6E17-499E-BA2D-10729F6C5A89",
+    "HotelName": "Nulen Resort Centre",
+    "Address": "Viridis",
+    "Rating": 3.5,
+    "CountryId": "56bf46a4-02b8-4693-a0f5-0a95e2218bdc"
+  }
+
+]
